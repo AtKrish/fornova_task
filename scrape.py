@@ -37,6 +37,4 @@ else:
     '''Make sure you have the requests and beautifulsoup4 libraries installed in
       your Python environment (pip install requests beautifulsoup4) before running this code.
         The code sends a GET request to the provided URL, extracts the required fields 
-        using BeautifulSoup, and prints them out for demonstration purposes.
-Please note that website scraping may be subject to legal and ethical considerations.
- Make sure to review the website's terms of service and consult with legal advisors before scraping any website.'''
+        using BeautifulSoup, and prints them out for demonstration purposes.'''
